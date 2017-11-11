@@ -1,0 +1,35 @@
+body{
+	background-color: #cccccc;
+	text-align: center;
+  font-family: Calibri, Verdana, sans-serif;
+}
+H1 {
+  color: #777;
+  font-size: 200%;
+  
+}
+P {
+  padding: 20px 0;
+}
+
+H2 {
+  color: #555555;
+  font-size: 150%;
+  
+}
+
+H2 a{
+  color: #5588aa;
+}
+
+#container{
+	border-radius: 40px;
+	margin:0 auto;
+	background-color: #ffffff;
+	padding: 40px 0;
+	width: 1000px;
+}
+.about{
+  font-family: Calibri, Verdana, sans-serif;
+}
+
